@@ -1,0 +1,25 @@
+*********** Client N#2:***************
+FullName :fghjk 
+Date :  31.3.2019
+Time:   7:5:6
+Amount: 200
+*********** Client N#2:***************
+FullName :jhgjhgh 
+Date :  31.3.2019
+Time:   7:5:6
+Amount: 200
+*********** Client N#2:***************
+FullName :lkjlkj 
+Date :  31.3.2019
+Time:   7:5:6
+Amount: 200
+*********** Client N#2:***************
+FullName :hjhg 
+Date :  31.3.2019
+Time:   7:5:6
+Amount: 200
+*********** Client N#2:***************
+FullName :asdf 
+Date :  31.3.2019
+Time:   7:5:6
+Amount: 200

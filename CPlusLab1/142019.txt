@@ -1,0 +1,25 @@
+*********** Client N#1:***************
+FullName :hjk 
+Date :  1.4.2019
+Time:   12:4:5
+Amount: 100
+*********** Client N#1:***************
+FullName :tfhgfh 
+Date :  1.4.2019
+Time:   12:4:5
+Amount: 100
+*********** Client N#1:***************
+FullName :jhgjh 
+Date :  1.4.2019
+Time:   12:4:5
+Amount: 100
+*********** Client N#1:***************
+FullName :kjh 
+Date :  1.4.2019
+Time:   12:4:5
+Amount: 100
+*********** Client N#1:***************
+FullName :afads 
+Date :  1.4.2019
+Time:   12:4:5
+Amount: 100
